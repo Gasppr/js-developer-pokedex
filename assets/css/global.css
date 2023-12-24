@@ -7,6 +7,15 @@ body {
     background-color: #f6f8fc;
 }
 
+.grid{
+    
+    background-color: whitesmoke;
+    margin: 0 50px 0 50px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+
 .content {
     width: 100vw;
     height: 100vh;
